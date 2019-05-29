@@ -1,0 +1,9 @@
+{
+    "path" : "~/worldwide_emissions",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

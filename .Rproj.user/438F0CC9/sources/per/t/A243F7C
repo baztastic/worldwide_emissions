@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558238028999.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4216076578",
+    "id" : "A243F7C",
+    "lastKnownWriteTime" : 1558247330,
+    "last_content_update" : 1558247330328,
+    "path" : "~/worldwide_emissions/emissions.R",
+    "project_path" : "emissions.R",
+    "properties" : {
+        "cursorPosition" : "36,0",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
